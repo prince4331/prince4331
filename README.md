@@ -1,4 +1,4 @@
-# Hi there, I'm Md. Shamsuzzaman Prince 👋
+# Hi there, I'm Md Shamsuzzaman 👋
 
 ### 🚀 Robotics, Autonomous Systems & Embedded IoT Engineer
 
