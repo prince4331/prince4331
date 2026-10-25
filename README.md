@@ -2,7 +2,7 @@
 
 ### 🚀 Robotics, Autonomous Systems & Embedded IoT Engineer
 
-I am an Electrical & Electronic Engineering (EEE) undergraduate and R&D engineer specializing in **autonomous mobile robots (AMR), aerospace telemetry (CanSat), embedded firmware (STM32/ESP32), and commercial IoT hardware**. I serve as the Co-Founder & Lead Engineer at **ARIoT Tech** and conduct research in autonomous robotics and embedded systems.
+I am an Electrical & Electronic Engineering (EEE) undergraduate and R&D engineer specializing in **autonomous mobile robots (AMR), aerospace telemetry (CanSat), embedded firmware (STM32/ESP32), and commercial IoT hardware**. I serve as the Co-Founder & Lead Engineer at **ARIoT Technologies** and conduct research in autonomous robotics and embedded systems.
 
 ---
 
@@ -19,7 +19,7 @@ I am an Electrical & Electronic Engineering (EEE) undergraduate and R&D engineer
 
 - 🛰️ **International CanSat Competition (USA):** Former Electrical Team Lead — Secured **7th Place Globally (2025)** with *Team Ascend* & **11th Place Globally (2024)** with *Team Astro*. Directed avionics hardware design, sensor integration, telemetry, and power distribution.
 - 🤖 **Autonomous Floor Cleaning Robot:** Engineered an industry-grade AMR utilizing **ROS 2, LiDAR, RK3588 AI SoC, Raspberry Pi 4, and STM32** microcontrollers powered by a custom 24V LiFePO4 battery system *(Top Capstone Project Honors)*.
-- 🔥 **Commercial IoT Hardware (ARIoT Tech):** Developing a commercial smart kitchen gas detection device and custom IoT cloud backend infrastructure.
+- 🔥 **Commercial IoT Hardware (ARIoT Technologies):** Developing a commercial smart kitchen gas detection device and custom IoT cloud backend infrastructure.
 - 📄 **Academic Research:** Co-authored 3 conference/symposium research papers focusing on IoT systems, precision agriculture, and sustainable technologies.
 
 ---
@@ -35,5 +35,5 @@ I am an Electrical & Electronic Engineering (EEE) undergraduate and R&D engineer
 ---
 
 ### 📫 Connect with Me
-- **Portfolio:** [prince4331.github.io](https://prince4331.github.io)
+- **Portfolio:** [shamsuzzaman.me](https://shamsuzzaman.me) | **Company:** [ariottech.com](https://ariottech.com)
 - **Email:** [princeshamsuzzaman@gmail.com](mailto:princeshamsuzzaman@gmail.com)
