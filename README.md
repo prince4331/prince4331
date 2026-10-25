@@ -2,7 +2,7 @@
 
 ### 🚀 Robotics, Autonomous Systems & Embedded IoT Engineer
 
-I am an Electrical & Electronic Engineering (EEE) undergraduate and R&D engineer specializing in **autonomous mobile robots (AMR), aerospace telemetry (CanSat), embedded firmware (STM32/ESP32), and commercial IoT hardware**. I serve as the Co-Founder & Lead Engineer at **ARIoT Technologies** and conduct research in autonomous robotics and embedded systems.
+I am an Electrical & Electronic Engineering (EEE) undergraduate and R&D engineer specializing in **autonomous mobile robots (AMR), aerospace telemetry (CanSat), embedded firmware (STM32/ESP32), and commercial IoT hardware**. I serve as the Co-Founder & CTO at **ARIoT Technologies** and conduct research in autonomous robotics and embedded systems.
 
 ---
 
