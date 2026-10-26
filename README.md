@@ -35,5 +35,6 @@ I am an Electrical & Electronic Engineering (EEE) undergraduate and R&D engineer
 ---
 
 ### 📫 Connect with Me
+- **LinkedIn:** [MD Shamsuzzaman](https://www.linkedin.com/in/md-shamsuzzaman-prince/)
 - **Portfolio:** [shamsuzzaman.me](https://shamsuzzaman.me) | **Company:** [ariottech.com](https://ariottech.com)
 - **Email:** [princeshamsuzzaman@gmail.com](mailto:princeshamsuzzaman@gmail.com)
